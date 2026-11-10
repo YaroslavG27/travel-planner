@@ -1,0 +1,19 @@
+h1 {
+  color: darkblue;
+  font-size: 36px;
+}
+p {
+  color: gray;
+  font-size: 18px;
+}
+body {
+  background-color: aliceblue;
+  padding: 24px;
+}
+h2 {
+  margin-top: 48px;
+}
+.fechas {
+  background-color: lightyellow;
+  padding: 12px;
+}
