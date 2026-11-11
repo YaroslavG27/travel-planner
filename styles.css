@@ -20,3 +20,14 @@ h2 {
   background-color: lightyellow;
   padding: 12px;
 }
+ul {
+  background-color: white;
+  padding-top: 16px;
+  padding-bottom: 16px;
+}
+li {
+  margin-bottom: 12px;
+}
+li:last-child {
+  margin-bottom: 0;
+}
