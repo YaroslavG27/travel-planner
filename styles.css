@@ -20,14 +20,14 @@ h2 {
   background-color: lightyellow;
   padding: 12px;
 }
-ul {
+.lista-actividades {
   background-color: white;
   padding-top: 16px;
   padding-bottom: 16px;
 }
-li {
+.lista-actividades li {
   margin-bottom: 12px;
 }
-li:last-child {
+.lista-actividades li:last-child {
   margin-bottom: 0;
 }
