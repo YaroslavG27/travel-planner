@@ -27,6 +27,7 @@ h2 {
 }
 .lista-actividades li {
   margin-bottom: 12px;
+  line-height: 1.6;
 }
 .lista-actividades li:last-child {
   margin-bottom: 0;
