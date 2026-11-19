@@ -19,6 +19,7 @@ h2 {
 .fechas {
   background-color: lightyellow;
   padding: 12px;
+  border-left: 4px solid darkblue;
 }
 .lista-actividades {
   background-color: white;
